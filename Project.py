@@ -12,8 +12,6 @@ mean_age=data['Age'].mean()
 data["Age"].fillna(mean_age,inplace=True)
 print(data)
 
-data_no_duplicates=data.drop_duplicates()
-print('After removing duplicates:\n',data_no_duplicates)
 
 # Renaming columns for better readability
 data.columns = ["CustomerID", "Gender", "Age", "AnnualIncome", "SpendingScore"]
