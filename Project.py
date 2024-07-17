@@ -1,7 +1,7 @@
 # Loading the dataset
 import pandas as pd
 data = pd.read_csv("Mall_Customers.csv")
-# Display the first few rows of the dataset
+# Display the dataset
 print(data)
 
 # Checking missing values
