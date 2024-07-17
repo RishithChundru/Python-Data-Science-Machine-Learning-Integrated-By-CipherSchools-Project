@@ -28,7 +28,7 @@ CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100)
 27,Female,45,28,32
 28,Male,35,28,61
 29,Female,40,29,31
-30,Female,23,,87
+30,Female,23,30,87
 31,Male,60,30,4
 32,Female,21,30,73
 33,Male,53,33,4
@@ -42,10 +42,10 @@ CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100)
 41,Female,65,38,35
 42,Male,24,38,92
 43,Male,48,39,36
-44,Female,31,,61
+44,Female,31,23,61
 45,Female,49,39,28
-46,Female,,39,65
-47,Female,,40,55
+46,Female,11,39,65
+47,Female,45,40,55
 48,Female,27,40,47
 49,Female,29,40,42
 50,Female,31,40,42
